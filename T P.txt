@@ -1,0 +1,5 @@
+<html>
+<body bgcolour="green" >
+<MARQUEE BEHAVIOR="S" BGCOLOR="YELLOW" HEIGTH="900" LOOP="3"> TRAINING &PLACEMENT CELL </MARGUEE>
+</BODY>
+</HTML>
